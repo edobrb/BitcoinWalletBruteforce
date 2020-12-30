@@ -9,8 +9,8 @@ The list of wallets inside `wallets.txt` are empty random generated wallets, so 
 If you have lost a wallet and want try to retrieve it against the laws of nature you can try to put your wallet address inside the file and run the script.
 
 ## Download
- - [bruteforce-bitcoin-wallet.zip](https://github.com/edobrb/BruteforceBitcoinWallet/releases/download/1.0.0/bruteforce-bitcoin-wallet.zip)
- - [bruteforce-bitcoin-wallet.tar](https://github.com/edobrb/BruteforceBitcoinWallet/releases/download/1.0.0/bruteforce-bitcoin-wallet.tar)
+ - [bruteforce-bitcoin-wallet.zip](https://github.com/edobrb/BitcoinWalletBruteforce/releases/download/1.0.0/bruteforce-bitcoin-wallet.zip)
+ - [bruteforce-bitcoin-wallet.tar](https://github.com/edobrb/BitcoinWalletBruteforce/releases/download/1.0.0/bruteforce-bitcoin-wallet.tar)
 
 
 ## Requirements
