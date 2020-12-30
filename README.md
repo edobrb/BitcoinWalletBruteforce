@@ -15,7 +15,7 @@ If you have lost a wallet and want try to retrieve it against the laws of nature
 
 ## Requirements
  - Java 11 or later
- - ~ 7.46^60 years (using only one core for cracking a single wallet)
+ - ~ 10^60 years (using only one core for cracking a single wallet)
  
 ## Usage
 `java -jar bruteforce-bitcoin-wallet.jar`
